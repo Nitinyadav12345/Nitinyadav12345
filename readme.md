@@ -19,6 +19,6 @@ with regards, Nitin Yadav
 
 
 ## 🛠 Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,nodejs,react,replit,java,springboot,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,nodejs,react,replit,java,postman,spring)](https://skillicons.dev)
 
 
