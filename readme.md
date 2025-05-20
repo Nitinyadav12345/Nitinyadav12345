@@ -1,20 +1,20 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I'm Nitin Yadav, aspiring Software Engineer. I am a passionate Software Engineer with experience in building innovative solutions and contributing to the development of various projects...
+Hi, I'm Nitin Yadav — Software Developer | Angular | .NET | MS SQL Server | SignalR
 
-During my internships at yoshops.com, I gained hands-on experience in exploring the data using technologies such as Python,web scrapping and Machine learning . I have also sharp my skills in areas such as object-oriented programming, data structures, and algorithms.
+I am a passionate and results-driven Software Developer currently working with Angular, .NET, and MS SQL Server to build robust, user-centric web applications. I enjoy transforming ideas into seamless digital experiences through clean, scalable code.
 
-Eager and passionate tech enthusiast with a strong foundation in computer science
-and a relentless drive to become a skilled software engineer. A recent graduate with
-a solid academic record, I am well-versed in programming languages, software
-development methodologies, and eager to contribute to innovative projects.
+Currently, I am focused on enhancing user engagement in my application by implementing tag designing features and real-time notifications using SignalR. These efforts reflect my dedication to delivering dynamic, interactive solutions that meet modern application standards.
 
-If you are looking for a motivated and skilled Software Engineer with a strong foundation in frontend development and Machine learning and DSA , I would be delighted to connect with you. Feel free to reach out to me for any collaboration or career opportunities.
+With a solid foundation in computer science, I am well-versed in object-oriented programming, data structures, and algorithms. I’m constantly evolving my skillset to stay in tune with the latest technologies and best practices in software development.
 
-Thank you for visiting my profile, and I look forward to connecting with professionals in the software development community.
+If you're looking to collaborate or connect with someone enthusiastic about building high-performance web applications with full-stack capabilities, I’d be excited to chat!
 
-with regards, Nitin Yadav 
+Thank you for visiting my profile — let's build something great together.
+
+Best regards,
+Nitin Yadav
 
 
 
